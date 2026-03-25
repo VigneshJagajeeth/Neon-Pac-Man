@@ -1,0 +1,5 @@
+{
+  "name": "Neon Pac-Man AI",
+  "description": "A procedurally generated neon Pac-Man game featuring A* pathfinding for ghosts and customizable difficulty.",
+  "requestFramePermissions": []
+}
